@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "learning-426713",
+  "private_key_id": "7b2db2be1d1d6f422c07022923bda9b1f484c6a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7TKYadil4mNqP\nhX75tCC0qLH+0XS5sCGyz6Zlkb+w2LN3SkTC7nwJPE1i0aiev+Fa78NKWFvEKC5H\na++a/oKjI3rFRAcxx1L0W5D7MHY6auJ1CWwRMwX9eOJoHdb9H9N17F5Q2fOSHKdn\nqlSfkX+ahVFWwq+Kl266kXUq8Trc2QwoeVNMtvaIpgoZiOqKHNyqgFtbH/mGNqf5\n8NmTZvZjyW6uttwGGxEsmFUIpW4gjfPvGkPtkah3+0I5p/6tMGA0u5AvtnScmdoY\nTrUnLZ6812ENwIX8rzBquATdxQqM0uLrVbol+6F4US/zT4AozgFb9zxQAdvdK5X3\npT+7Apy1AgMBAAECggEAAkSL0E808lZbcxhpMKnLKZTPTugHU0Y8KjeUaq9olEIT\nbjLSgU+05cG6qCMkuQNWvaygfzJxrf7UjJ3UcVp6h3IjBudrdOFWckn3h+sOy2dG\n5abfDZhCDs8bYqpV04vCmi9p9u2kotTA/CLWUnZHBr5tfTDvQizSNOUU95ejIFBl\nIK7MHYjJx1FaNLaRFA9FzcwvRtETgwyWEyCNM++6ixH3edjvMJLqnSpjxc6hc5Bu\nN0+b0v/Tj3yZVeVB7aX7aMBwB7oMJYN5n9b1F7iuGZMnU35FLh/RqrFV92uR8wqp\nySGuTB588txDE4yRf5hlvLzM8Jxpj4KKRKVBcxr9swKBgQDt3ocA6bCAWiNlRs05\nwavuwpz3L8KxMekw/IEAhw1YZUtILTBSE7hTWxkAkt+6F8+agT3L3etsk41B6Elf\nMu9NEsQC7/CHCSd9fUQ7x0+XcOKJDSzERqi56PshNQnSfBGJS1Ebk4A8Yzc4bwhi\n+69IYYIjptKahdKN+qup709g9wKBgQDJk137LAym3QGWcgUnd4Lg+nFSGibQmKqp\nkpvHeCCuWfPkbbaY8jCssWU3ruhNN2aBhIBRJoHCKb3oSMpGJE32BXblbtnPZCS6\nEHLdKwfdmKiTZdljDkMu4Y44GnGKyCEQIjTfzmXB4osQ50adXYv74PVH9BSVaLyh\nqEd3rOiwswKBgFN9hs9INv5mJQRYPJJoKwvr3SJZ7jE5vorGJhVkUcfUDf9wdQRq\nDYmccQMlikeMMf8eG+2hoA+FHtCiUpaKjznzOz94rmkHSogeXsPIqmQSaEEIkcz2\nrCRM5VB7iE4L5C/XcsmGFT2c6XXyavQrORPjvcT7ufIoxIW3FWfZKnhzAoGBALim\nWBb3uPc5yHSKKhKHNcrlX903u4ql7t+7Pxwv/K/6EqKTpgrhAJmRPwkNHhttvmay\ne+Dah07XcfFQjIpIQ2o0gz+Ulc2XDNWsr6vN+TyS1QmA6OwGaqCNWfwmrQ/WWAMx\ncoH5zdkXrxBi65rH0K2A2u94tUpQUUs8nYsRR25lAoGAKLQ7k4cg6ntxcyrObt1G\nsN+Wd/t1WulRUon965T4CD8+WfeXYyb8AsOUhvclXKUxt9Qh2W2Zo9rakJHPP7ky\n0TJzcyU0BL6jUiGpPkBEkltCmZIZYj3N3mjPsSGQd/4J9SrwfB6dsFHoBnnXVaTt\nf9fUNURu1pbwnpKdVQkIIWk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drive-download@learning-426713.iam.gserviceaccount.com",
+  "client_id": "109151024742277036851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drive-download%40learning-426713.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
